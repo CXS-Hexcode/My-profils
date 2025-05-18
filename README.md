@@ -11,39 +11,36 @@
 
 
 > ### 👉 Skills: 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AC04F7&background=9B0CFF00&width=435&lines=Back+End;Front+End;Full+Stack+Developer+;Sys+admin;Web+D%C3%A9signer+;SQL;XSS;Network)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=52F713&width=435&lines=Pentest+web;Osint;Forensic;Dev;Owner+CXS;Micro+%C3%A9lectronique;R%C3%A9seaux;Anti+p3dos)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-> ### 👋 Déjà travaillé pour: 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=F70000&width=435&lines=Help+%26I;Nova;Livity;E-Corp;Discord;TikTok%2Cyoutube;Burger+King)](https://git.io/typing-svg)
+> ### 👋 Owner de : 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Owner+du+Groupe+CXS;Owner+de+l'organisation+APO)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### 🆕 Updates 
  
 ```PY 
- [+] Last update: 14/09/2024
- [+] author: Potopilo
- [+] owner: Potopilo
+ [+] Last update: 18/05/2025
+ [+] author: Hexcode
  ```
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
  > ### 🎈 Socials 
  
- | 🐻 [discord](https://discord.gg/FrWfMPtss7) | 
+ | 🐻 [discord](https://discord.gg/P3tFKuKgSJ) | 
  
 
 
 
- ```py
- potopilo
- ```
+
  
  ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
  
- > Réalisé par  Potopilo - README.md v.6.3
+ > Réalisé par  Hexcode - README.md v.6.3
  
   ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
   
