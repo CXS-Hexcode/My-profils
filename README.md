@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=Potopilo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tilt+Prism&weight=500&pause=1000&color=7BF757&center=vrai&vCenter=FAUX&repeat=vrai&width=435&lines=Hexcode)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
@@ -34,9 +34,7 @@
  
  | 🐻 [discord](https://discord.gg/FrWfMPtss7) | 
  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Potopilo404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+
 
 
  ```py
